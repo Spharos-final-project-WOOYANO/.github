@@ -6,15 +6,15 @@
 
 
 ## 멤버
-* 팀장 : 임찬섭(FE) : USER 홈페이지 기능, USER LANDING 기능, USER 서비스 신청 기능, CHAT-GPT API, 결제 기능, CLIENT 전반적인 기능
+* 팀장 : 임찬섭(FE) : USER 홈페이지 기능, USER LANDING 기능, USER 서비스 신청 기능, CHAT-GPT API, 결제 기능, CLIENT 기능
 * 팀원
   * FE
-    - 소준영 : User 서비스, Search, Viewer 서비스, BFF 처리, Client Data 최적화
-    - 이하늘 : User Sign In/Up 플로우 처리, 충전/결제 기능, 관리자, 내서재, Profile 포함 운영 기능
+    - 소준영 : USER 회원, CLIENT 회원, USER 마이페이지, CLIENT 작업자 관리 
+    - 이하늘 : User 리뷰, 서비스 내역, 업체 리스트, 업체 상세 페이지
   * BE
-    - 박정민 : 유저 서비스, 결제 Flow 처리, OAuth API 처리, 보안담당(JWT), 실시간 처리
+    - 박정민 : 서비스 예약, 정산
     - 고신영 : 소설, 유틸, Gateway 서비스, 서버 설계, CI/CD, 모니터링, DevOps
-    - 안선영 : 
+    - 안선영 : 회원, 회원정보, 서비스내역, 리뷰, 찜, 입점신청, 서비스/작업자 관리, 리뷰
 
 
 ## 기능
