@@ -19,14 +19,28 @@
 
 ## 기능
 ### USER
-|메인|업체리스트|검색|
-|:-:|:-:|:-:|
-|||
+|서비스|화면|
+|:-:|:-:|
+|로그인|![유저 로그인](https://github.com/Spharos-final-project-WOOYANO/.github/assets/99310356/ed013abc-a59a-4004-883d-5750a2169ce0)|
+|GPT질문|![유저 gpt 질문](https://github.com/Spharos-final-project-WOOYANO/.github/assets/99310356/22615c76-0433-420e-b4c3-b7f32cd0f8cd)|
+|서비스 리스트|![유저 가사,이사입주,사무실,가전 리스트](https://github.com/Spharos-final-project-WOOYANO/.github/assets/99310356/742ea174-1960-40f9-96d3-866f82f01e31)|
+|서비스 상세|![유저 서비스 detail](https://github.com/Spharos-final-project-WOOYANO/.github/assets/99310356/5d294a1d-cf6e-439e-8edf-a260bea1a2e2)|
+|서비스 신청|![유저 서비스 신청 및 결제](https://github.com/Spharos-final-project-WOOYANO/.github/assets/99310356/120e0e5f-9ea0-4c32-a32d-6c03a5fa4e86)|
+
+
+
+
+
 
 ### CLIENT
-|메인|정산|상품관리|기사관리|
-|:-:|:-:|:-:|:-:|
-|||
+|서비스|화면|
+|:-:|:-:|
+|회원 정보|![업체 회원 정보](https://github.com/Spharos-final-project-WOOYANO/.github/assets/99310356/d035cbff-ec4e-4044-a2b3-daa022c863fe)|
+|매장 관리|![매장정보](https://github.com/Spharos-final-project-WOOYANO/.github/assets/99310356/3b4be5e9-f9e3-45b4-b3df-4325ac6744d1)|
+|상품 관리|![상품 관리](https://github.com/Spharos-final-project-WOOYANO/.github/assets/99310356/41269a3e-5c74-4028-9154-cdaac8b1465a)|
+|작업자 관리|![작업자 관리](https://github.com/Spharos-final-project-WOOYANO/.github/assets/99310356/8464ec1d-60a7-41f6-9cd3-e148d05d1ba8)|
+|서비스 예약 관리|![서비스 예약 관리](https://github.com/Spharos-final-project-WOOYANO/.github/assets/99310356/76fa7001-6c4e-43ba-a9df-d74bda21a594)|
+|정산|![정산](https://github.com/Spharos-final-project-WOOYANO/.github/assets/99310356/e1975d39-d5f2-47da-afd7-b8345d815f2e)|
 
 
 ## 설치 방법
