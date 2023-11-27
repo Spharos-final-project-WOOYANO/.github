@@ -16,6 +16,13 @@
     - 고신영 : 소설, 유틸, Gateway 서비스, 서버 설계, CI/CD, 모니터링, DevOps
     - 안선영 : 회원, 회원정보, 서비스내역, 리뷰, 찜, 입점신청, 서비스/작업자 관리, 리뷰
 
+## 배포주소
+|회원 배포주소|업체 배포주소|노션|
+|:-:|:-:|:-:|
+|![회원 배포주소qr](https://github.com/Spharos-final-project-WOOYANO/.github/assets/99310356/854d937c-7148-4f7d-a8aa-6cf798f0e6df)|![업체 배포주소qr](https://github.com/Spharos-final-project-WOOYANO/.github/assets/99310356/80d1918e-902b-4427-babb-8772567177fd)|![노션 qr](https://github.com/Spharos-final-project-WOOYANO/.github/assets/99310356/e4d9b43f-450d-42dc-a307-b903668e90ea)|
+|[회원 배포주소](https://wooyano.shop/)|[업체 배포주소](https://wooyano.store/)|[노션 주소](https://weak-python-e6b.notion.site/2-Wooyano-1b1eacefcd9d4ca0909ac8297628f0a6)|
+
+
 
 ## 기능
 ### USER
