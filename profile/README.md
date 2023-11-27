@@ -48,24 +48,14 @@
 
 OS X & 리눅스, 윈도우:
 
-
 1. GitHub Repository에서 fork 버튼을 누른다. 
-2. GitHub Access Token 발급 후 Secrets 등록한다.
-3. [환경설정](#enviroment) 설정
 
 
 BackEnd
 ```sh
- - Java 11 이상 (이 프로젝트에 빌드 된 버전은 11 버전입니다.)
+ - Java 17 이상 (이 프로젝트에 빌드 된 버전은 17 버전입니다.)
 ```
 
-
-## BackEnd 개발 환경 설정
-
-
-```sh
-./gradlew -x build
-```
 
 
 ## FrontEnd 개발 환경 설정
@@ -98,7 +88,7 @@ Back-end
 <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&for-the-badge&logo=apachekafka&logoColor=white" />
 <img src="https://img.shields.io/badge/Axon%20server-004088?style=flat&for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=JWT&logoColor=white" />
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=Grafana&for-the-badge&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-F46800?style=flat&logo=Jenkins&for-the-badge&logo=grafana&logoColor=white" />
 <img src="https://img.shields.io/badge/Amazonaws-232F3E?style=flat&for-the-badge&logo=amazonaws&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Gitaction-2088FF?style=flat&for-the-badge&logo=githubactions&logoColor=white" />
