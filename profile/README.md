@@ -13,8 +13,8 @@
     - 이하늘 : User 리뷰, 서비스 내역, 업체 리스트, 업체 상세 페이지
   * BE
     - 박정민 : 서비스 예약, 결제, 정산
-    - 고신영 : 소설, 유틸, Gateway 서비스, 서버 설계, CI/CD, 모니터링, DevOps
-    - 안선영 : 회원, 회원정보, 서비스내역, 리뷰, 찜, 입점신청, 서비스/작업자 관리, 리뷰
+    - 고신영 : Gateway, 서버 설계, CI/CD, DevOps, 서비스 타입/날짜/지역별 업체 검색 기능, 업체 상세 조회, 우수업체 조회
+    - 안선영 : 회원, 회원정보, 서비스내역, 리뷰, 찜, 입점신청, 서비스/작업자 관리
 
 ## 배포주소
 |회원 배포주소|업체 배포주소|노션|
@@ -99,6 +99,7 @@ Back-end
 <img src="https://img.shields.io/badge/Amazonaws-232F3E?style=flat&for-the-badge&logo=amazonaws&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Gitaction-2088FF?style=flat&for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-000104?style=flat&for-the-badge&logo=Nginx&logoColor=white" />
 
 
 FrontEnt  
